@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CN22F_NguyenTrungHieu_BaiTapTuan1</string>
+    <string name="left">←</string>
+    <string name="ass">ass</string>
+    <string name="img">img</string>
+    <string name="edit">edit</string>
+    <string name="name">Name</string>
+    <string name="address" />
+</resources>

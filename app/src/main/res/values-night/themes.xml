@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CN22F_NguyenTrungHieu_BaiTapTuan1" parent="Theme.Material3.DayNight.NoActionBar">
+
+
+    </style>
+</resources>
